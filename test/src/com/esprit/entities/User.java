@@ -13,6 +13,7 @@ public class User
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private Integer cin;
 	
+	
 	private String name;
 
 	
